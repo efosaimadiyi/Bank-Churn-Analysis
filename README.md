@@ -45,5 +45,6 @@ Tools : Power point and Power Bi visualizaion features
 - Customers tend to stay longer as their time with the bank increases, suggesting loyalty builds over time.
 
 ### Recommendations
-
-  
+- Address customer complaints promptly to rebuild trust and reduce churn.
+- Investigate the surprising churn patterns related to product usage, especially why customers with three or four products are leaving at high rates, and conduct surveys to uncover the reasons.
+- Develop targeted retention strategies for customers with varying product levels to address the unexpected trends and prevent further losses.
