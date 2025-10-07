@@ -30,8 +30,8 @@ Tools: Power Query (Power Bi)
 Step 2: Analysis and Dashboard Creation
 
 Tools : Power point and Power Bi visualizaion features
-- Created a wireframe using Power Bi
-- Built interactive dashboards with filters
+- Created a wireframe using Power point
+- Built interactive dashboards with filters using power Bi
 - Used bar charts, column charts, scatter charts, donut chart, and map to visualize key churn trends.
 
 ### Insights
