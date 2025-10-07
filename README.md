@@ -22,6 +22,28 @@ The dataset, sourced from an online data analysis community, includes 10,000 cus
 
 ### Methodologies
 Step 1: Data cleaning and transformation
+
 Tools: Power Query (Power Bi)
 - Removed duplicates
-- Grouped age range into Gen z(18-28), Millennials(29-44), Gen X(45-60), Baby Boomers(61-, and Silent generation.
+- Grouped age range into Gen z(18-28), Millennials(29-44), Gen X(45-60), Baby Boomers(61-79), and Silent generation(80-92).
+
+Step 2: Analysis and Dashboard Creation
+
+Tools : Power point and Power Bi visualizaion features
+- Created a wireframe using Power Bi
+- Built interactive dashboards with filters
+- Used bar charts, column charts, scatter charts, donut chart, and map to visualize key churn trends.
+
+### Insights
+- Customers aged 45-60 are leaving at a much higher rate.
+- More than half of the customers who left are female.
+- Germany has a noticeably higher rate of customers leaving compared to Spain and France.
+- Customers who left have slightly higher average balances than those who stay, showing money alone doesn’t keep them.
+- Lower satisfaction scores, especially below average, are linked to more customers leaving.
+- Almost all customers who left had complaints, while very few who stay did, indicating a big service issue.
+- The number of products a customer has affects churn, with 100% of customers using all four of the product leaving.
+- Customers tend to stay longer as their time with the bank increases, suggesting loyalty builds over time.
+
+### Recommendations
+
+  
