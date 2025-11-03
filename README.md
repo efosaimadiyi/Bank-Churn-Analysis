@@ -1,6 +1,9 @@
 # BANK CHURN ANALYSIS
 
-<img width="879" height="984" alt="image (1)" src="https://github.com/user-attachments/assets/3b892a0b-b67b-45b3-a68d-4c637b7151a4" />
+<a href="https://app.powerbi.com/groups/me/reports/06701021-691a-4f77-9efd-aedd664d511a?experience=power-bi" target="_blank">
+  <img width="879" height="984" alt="image (1)" src="https://github.com/user-attachments/assets/3b892a0b-b67b-45b3-a68d-4c637b7151a4" />
+</a>
+
 
 ### Introduction
 This project focuses on analyzing customer churn for a bank within the financial services industry. Churn, where customers close accounts and leave, is a critical issue that impacts revenue and growth. By exploring demographic and behavioral patterns, this analysis aims to help the bank retain customers and stay competitive in a crowded market, making it vital for business sustainability.
